@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background-image: url("imagens/blue2.jpeg");
+  background-size: 20px;
+  margin: 0px;
+}
+.title {
+  background-color: cadetblue;
+  padding: 0px 5px;
+  z-index: 0px;
+  position: sticky;
+  top: 0px;
+  left: 0px;
+}
+.phptst {
+  font-size: 15px;
+  font-family: monospace;
+  margin: 150px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
